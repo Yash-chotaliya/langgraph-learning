@@ -1,0 +1,16 @@
+A Reflexion Agent in LangGraph is an advanced agent that evaluates and improves its own responses by reflecting on past outputs. It integrates self-feedback to refine its reasoning and decision-making over multiple iterations.  
+
+Key Features of a Reflexion Agent:  
+- Self-Correction: Learns from mistakes and adjusts its responses.  
+- Iterative Improvement: Continuously refines answers based on past interactions.  
+- Meta-Cognition: Thinks about its own thinking to enhance reasoning.  
+
+Difference Between Reflexion Agent & Basic Reflector Agent:  
+| Feature            | Basic Reflector Agent  | Reflexion Agent  |
+|-------------------|--------------------|------------------|
+| Function      | Just echoes the input as is. | Analyzes, critiques, and improves responses. |
+| Processing    | No learning or enhancement. | Uses feedback to refine answers. |
+| Use Case      | Debugging, passing data, placeholders. | AI self-improvement, better decision-making. |
+| Memory        | No awareness of past responses. | Uses previous outputs to improve. |
+
+A basic reflector agent is passive and unchanging, while a Reflexion Agent actively improves by learning from experience. 

@@ -1,0 +1,8 @@
+A basic reflector agent in LangGraph is an agent that simply returns the input it receives without any modifications. It acts like an echo, reflecting back the same data.  
+
+Key Features:  
+- No Processing: It does not alter, analyze, or generate new information.  
+- Useful for Debugging: Helps test workflows by verifying data flow.  
+- Placeholder in Workflows: Can be used as a temporary step before implementing more complex logic.  
+
+This type of agent is often used in early-stage development to ensure that data is being passed correctly through a LangGraph pipeline.
